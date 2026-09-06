@@ -1,4 +1,5 @@
-module github.com/ollama/ollama
+module ://github.com/rap1033ssmm-crypto/ollama
+
 
 go 1.26.0
 
